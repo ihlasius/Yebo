@@ -96,7 +96,7 @@ html body {
 .screen {
   max-width: 100%;
   min-height: 100vh;
-  background-image: url(/img/img__bg/bg.jpg);
+  background-image: url(img/img__bg/bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
